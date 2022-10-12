@@ -1,9 +1,12 @@
-from operator import truediv
-
-
 password='47293222'
 condicion=True
 intentos=1
-while condicion==True
-  print
-
+while condicion==True:
+  print('este es tu' ,intentos,' intentos')
+  newPassword=input('ingresa el password correcto: ')
+  if newPassword==password:
+    print('bienvenido al sistema joven ilustre')
+    condicion=False
+  else:
+      print('eres un gil')
+      intentos+=1

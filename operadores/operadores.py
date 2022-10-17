@@ -5,6 +5,7 @@ MULTIPLICACION=2*3 ##El signo (*) es el operador llammado multiplcaciòn
 DIVISION=2/3 ##El signo (/) es el operador llammado divisiòn
 MODULO=10%6 ##El signo (%) es el operador llammado modulo
 POTENCIA=10**6 #El signo (**) es el operador llamado potencia
+[:]##el signo es el operador foca
 print(SUMA)
 print(RESTA)
 print(MULTIPLICACION)

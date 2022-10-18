@@ -9,4 +9,4 @@ FINAL=PROMEDIO/4
 if FINAL>13:
     print('ESTAS APROBADO')
 else:
-    print('ESTAS')
+    print('ESTAS desaprobado')
